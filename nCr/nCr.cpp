@@ -1,7 +1,3 @@
-/* * * * */
-/*  nCr  */
-/* * * * */
-
 //mod MOD
 //nCr = ((factorial[n] % MOD) * modinv[r] % MOD) * modinv[n-r] % MOD;
 
